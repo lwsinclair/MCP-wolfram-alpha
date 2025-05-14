@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/secretiveshell-mcp-wolfram-alpha-badge.png)](https://mseep.ai/app/secretiveshell-mcp-wolfram-alpha)
+
 # MCP-wolfram-alpha
 
 A MCP server to connect to wolfram alpha API.
